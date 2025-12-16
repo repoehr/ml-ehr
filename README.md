@@ -11,21 +11,17 @@ The pipeline expects several resource files in the repo root (or update the path
 
 ## Quickstart (recommended notebook order)
 
-1. **Data cleaning**
+1. **Data extraction and cleaning**
    - Run `data_preprocessing.ipynb`
-   - Verify the `EHR/*_*_all.pkl` outputs exist.
 
-2. **Cohort + matching**
+2. **Cohort construction + case-control matching**
    - Run `cohort_preprocessing.ipynb`
-   - This creates `Middle/`, `Middle/splits/`, and `PSM_results/`.
 
-3. **Feature preprocessing**
+3. **Feature preprocessing for different EHR data types**
    - Run `feature preprocessing.ipynb`
-   - This creates processed domain-level tables in `MiddleFeatures/`.
 
-4. **Feature matrix construction**
+4. **Feature matrix construction based on different prediction windows**
    - Run `feature_construction_for_prediction_window.ipynb`
-   - This produces matched/unmatched matrices used by evaluation.
 
 5. **Evaluation**
    - Choose one of:
@@ -40,15 +36,14 @@ The pipeline expects several resource files in the repo root (or update the path
 Most notebooks expose a few important parameters near the top:
 - `hold_out_portion` (e.g., `0.5` for 50% hold-out)
 - matching `ratio` (e.g., `10` for 1:10 case-control)
-- prediction windows (commonly `[10, 5, 2, 1, 0]` where `0` may represent “1-day”)
-- site list: `['wcm', 'columbia', 'montefiore', 'mshs', 'nyu']`
-
+- prediction windows (commonly `[10, 5, 2, 1, 0]` where `0` represents “1-day”)
+- site list
 ---
 
 ## Environment / dependencies
 
 The core stack is:
-- Python 3.9+ (tested with common scientific Python stacks)
+- Python 3.10 
 - `numpy`, `pandas`, `scikit-learn`, `matplotlib`, `seaborn`
 - `tqdm`, `dill`
 - `plotnine` (optional, for ggplot-style figures)
