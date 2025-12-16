@@ -1,5 +1,5 @@
 
-> Column names may need minor adjustment depending on your site export.  
+This is the code repository for the paper: A Comprehensive Investigation of Machine Learning Practices in Predictive Modeling of Alzheimer’s Disease and Related Dementias using Multisite Real-world Electronic Health Records.
 
 ### Required mapping / resource files
 The pipeline expects several resource files in the repo root (or update the paths in notebooks):
@@ -46,8 +46,6 @@ The core stack is:
 - Python 3.10 
 - `numpy`, `pandas`, `scikit-learn`, `matplotlib`, `seaborn`
 - `tqdm`, `dill`
-- `plotnine` (optional, for ggplot-style figures)
-- `patchworklib` (optional, for figure composition)
 
 You can start with:
 ```bash
