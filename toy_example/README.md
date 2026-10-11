@@ -105,22 +105,3 @@ Changing the prediction window and rerunning overwrites these files. Parameter
 search results and feature definitions are displayed in the notebook. The
 cohort split is already included in `data/cohort.csv`. IDs and labels are
 excluded from model predictors. Results illustrate usage on synthetic records.
-
-## Clinical feature examples and terminology sources
-
-- Diagnosis: Phecode 401.1 (essential hypertension) and 250.2 (type 2 diabetes).
-  Phecode 250.1 (type 1 diabetes) is recorded only on the index date to test cutoff exclusion.
-  Sources: [PheWAS resources](https://phewascatalog.org/phewas/) and
-  [MAP paper describing diabetes Phecodes](https://pmc.ncbi.nlm.nih.gov/articles/PMC6798574/).
-- Medication: RxNorm ingredient 6809 (metformin), 29046 (lisinopril), 83367 (atorvastatin).
-  Sources: [CMS RxNorm code examples](https://www.cms.gov/research-statistics-data-and-systems/downloadable-public-use-files/bsapufs/downloads/2010_pd_profiles_puf_datadic_cb.pdf)
-  and [NLM RxNav FAQ](https://lhncbc.nlm.nih.gov/RxNav/applications/RxNavFAQ.html).
-- Laboratory: [4548-4, hemoglobin A1c](https://loinc.org/4548-4),
-  [2345-7, serum/plasma glucose](https://loinc.org/2345-7),
-  [2093-3, serum/plasma total cholesterol](https://loinc.org/2093-3).
-  Flags are calculated from each simulated result and the example ranges saved
-  in the CSV. Those ranges are illustrative; LOINC identifies the test, not its reference range.
-
-Human-readable diagnosis and medication names are included in the inputs;
-the notebook displays a dictionary of the resulting predictor columns.
-
