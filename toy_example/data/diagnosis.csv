@@ -1,0 +1,633 @@
+patid,dx_date_fill,phecode,diagnosis_name
+900001,2008-01-01,401.1,Essential hypertension
+900001,2008-01-01,250.2,Type 2 diabetes
+900001,2014-01-01,401.1,Essential hypertension
+900001,2014-01-01,250.2,Type 2 diabetes
+900001,2018-01-01,401.1,Essential hypertension
+900001,2018-01-01,250.2,Type 2 diabetes
+900001,2020-01-01,250.1,Type 1 diabetes
+900002,2008-01-01,401.1,Essential hypertension
+900002,2014-01-01,401.1,Essential hypertension
+900002,2018-01-01,401.1,Essential hypertension
+900002,2020-01-01,250.1,Type 1 diabetes
+900003,2008-01-01,401.1,Essential hypertension
+900003,2008-01-01,250.2,Type 2 diabetes
+900003,2014-01-01,401.1,Essential hypertension
+900003,2018-01-01,401.1,Essential hypertension
+900003,2018-01-01,250.2,Type 2 diabetes
+900003,2020-01-01,250.1,Type 1 diabetes
+900004,2008-01-01,401.1,Essential hypertension
+900004,2008-01-01,250.2,Type 2 diabetes
+900004,2014-01-01,401.1,Essential hypertension
+900004,2018-01-01,401.1,Essential hypertension
+900004,2018-01-01,250.2,Type 2 diabetes
+900004,2020-01-01,250.1,Type 1 diabetes
+900005,2008-01-01,401.1,Essential hypertension
+900005,2008-01-01,250.2,Type 2 diabetes
+900005,2014-01-01,401.1,Essential hypertension
+900005,2018-01-01,401.1,Essential hypertension
+900005,2018-01-01,250.2,Type 2 diabetes
+900005,2020-01-01,250.1,Type 1 diabetes
+900006,2008-01-01,401.1,Essential hypertension
+900006,2014-01-01,401.1,Essential hypertension
+900006,2014-01-01,250.2,Type 2 diabetes
+900006,2018-01-01,401.1,Essential hypertension
+900006,2020-01-01,250.1,Type 1 diabetes
+900007,2008-01-01,401.1,Essential hypertension
+900007,2008-01-01,250.2,Type 2 diabetes
+900007,2014-01-01,401.1,Essential hypertension
+900007,2014-01-01,250.2,Type 2 diabetes
+900007,2018-01-01,401.1,Essential hypertension
+900007,2018-01-01,250.2,Type 2 diabetes
+900007,2020-01-01,250.1,Type 1 diabetes
+900008,2008-01-01,401.1,Essential hypertension
+900008,2008-01-01,250.2,Type 2 diabetes
+900008,2014-01-01,401.1,Essential hypertension
+900008,2018-01-01,401.1,Essential hypertension
+900008,2020-01-01,250.1,Type 1 diabetes
+900009,2008-01-01,401.1,Essential hypertension
+900009,2014-01-01,401.1,Essential hypertension
+900009,2014-01-01,250.2,Type 2 diabetes
+900009,2018-01-01,401.1,Essential hypertension
+900009,2020-01-01,250.1,Type 1 diabetes
+900010,2008-01-01,401.1,Essential hypertension
+900010,2008-01-01,250.2,Type 2 diabetes
+900010,2014-01-01,401.1,Essential hypertension
+900010,2014-01-01,250.2,Type 2 diabetes
+900010,2018-01-01,401.1,Essential hypertension
+900010,2018-01-01,250.2,Type 2 diabetes
+900010,2020-01-01,250.1,Type 1 diabetes
+900011,2008-01-01,401.1,Essential hypertension
+900011,2014-01-01,401.1,Essential hypertension
+900011,2014-01-01,250.2,Type 2 diabetes
+900011,2018-01-01,401.1,Essential hypertension
+900011,2018-01-01,250.2,Type 2 diabetes
+900011,2020-01-01,250.1,Type 1 diabetes
+900012,2008-01-01,401.1,Essential hypertension
+900012,2014-01-01,401.1,Essential hypertension
+900012,2014-01-01,250.2,Type 2 diabetes
+900012,2018-01-01,401.1,Essential hypertension
+900012,2018-01-01,250.2,Type 2 diabetes
+900012,2020-01-01,250.1,Type 1 diabetes
+900013,2008-01-01,401.1,Essential hypertension
+900013,2014-01-01,401.1,Essential hypertension
+900013,2014-01-01,250.2,Type 2 diabetes
+900013,2018-01-01,401.1,Essential hypertension
+900013,2020-01-01,250.1,Type 1 diabetes
+900014,2008-01-01,401.1,Essential hypertension
+900014,2008-01-01,250.2,Type 2 diabetes
+900014,2014-01-01,401.1,Essential hypertension
+900014,2014-01-01,250.2,Type 2 diabetes
+900014,2018-01-01,401.1,Essential hypertension
+900014,2020-01-01,250.1,Type 1 diabetes
+900015,2008-01-01,401.1,Essential hypertension
+900015,2014-01-01,401.1,Essential hypertension
+900015,2018-01-01,401.1,Essential hypertension
+900015,2018-01-01,250.2,Type 2 diabetes
+900015,2020-01-01,250.1,Type 1 diabetes
+900016,2008-01-01,401.1,Essential hypertension
+900016,2008-01-01,250.2,Type 2 diabetes
+900016,2014-01-01,401.1,Essential hypertension
+900016,2014-01-01,250.2,Type 2 diabetes
+900016,2018-01-01,401.1,Essential hypertension
+900016,2018-01-01,250.2,Type 2 diabetes
+900016,2020-01-01,250.1,Type 1 diabetes
+900017,2008-01-01,401.1,Essential hypertension
+900017,2008-01-01,250.2,Type 2 diabetes
+900017,2014-01-01,401.1,Essential hypertension
+900017,2014-01-01,250.2,Type 2 diabetes
+900017,2018-01-01,401.1,Essential hypertension
+900017,2020-01-01,250.1,Type 1 diabetes
+900018,2008-01-01,401.1,Essential hypertension
+900018,2008-01-01,250.2,Type 2 diabetes
+900018,2014-01-01,401.1,Essential hypertension
+900018,2018-01-01,401.1,Essential hypertension
+900018,2020-01-01,250.1,Type 1 diabetes
+900019,2008-01-01,401.1,Essential hypertension
+900019,2014-01-01,401.1,Essential hypertension
+900019,2014-01-01,250.2,Type 2 diabetes
+900019,2018-01-01,401.1,Essential hypertension
+900019,2020-01-01,250.1,Type 1 diabetes
+900020,2008-01-01,401.1,Essential hypertension
+900020,2014-01-01,401.1,Essential hypertension
+900020,2014-01-01,250.2,Type 2 diabetes
+900020,2018-01-01,401.1,Essential hypertension
+900020,2018-01-01,250.2,Type 2 diabetes
+900020,2020-01-01,250.1,Type 1 diabetes
+900021,2008-01-01,401.1,Essential hypertension
+900021,2014-01-01,401.1,Essential hypertension
+900021,2014-01-01,250.2,Type 2 diabetes
+900021,2018-01-01,401.1,Essential hypertension
+900021,2018-01-01,250.2,Type 2 diabetes
+900021,2020-01-01,250.1,Type 1 diabetes
+900022,2008-01-01,401.1,Essential hypertension
+900022,2008-01-01,250.2,Type 2 diabetes
+900022,2014-01-01,401.1,Essential hypertension
+900022,2014-01-01,250.2,Type 2 diabetes
+900022,2018-01-01,401.1,Essential hypertension
+900022,2018-01-01,250.2,Type 2 diabetes
+900022,2020-01-01,250.1,Type 1 diabetes
+900023,2008-01-01,401.1,Essential hypertension
+900023,2008-01-01,250.2,Type 2 diabetes
+900023,2014-01-01,401.1,Essential hypertension
+900023,2018-01-01,401.1,Essential hypertension
+900023,2020-01-01,250.1,Type 1 diabetes
+900024,2008-01-01,401.1,Essential hypertension
+900024,2008-01-01,250.2,Type 2 diabetes
+900024,2014-01-01,401.1,Essential hypertension
+900024,2018-01-01,401.1,Essential hypertension
+900024,2018-01-01,250.2,Type 2 diabetes
+900024,2020-01-01,250.1,Type 1 diabetes
+900025,2008-01-01,401.1,Essential hypertension
+900025,2008-01-01,250.2,Type 2 diabetes
+900025,2014-01-01,401.1,Essential hypertension
+900025,2018-01-01,401.1,Essential hypertension
+900025,2020-01-01,250.1,Type 1 diabetes
+900026,2008-01-01,401.1,Essential hypertension
+900026,2008-01-01,250.2,Type 2 diabetes
+900026,2014-01-01,401.1,Essential hypertension
+900026,2014-01-01,250.2,Type 2 diabetes
+900026,2018-01-01,401.1,Essential hypertension
+900026,2018-01-01,250.2,Type 2 diabetes
+900026,2020-01-01,250.1,Type 1 diabetes
+900027,2008-01-01,401.1,Essential hypertension
+900027,2014-01-01,401.1,Essential hypertension
+900027,2018-01-01,401.1,Essential hypertension
+900027,2020-01-01,250.1,Type 1 diabetes
+900028,2008-01-01,401.1,Essential hypertension
+900028,2014-01-01,401.1,Essential hypertension
+900028,2018-01-01,401.1,Essential hypertension
+900028,2020-01-01,250.1,Type 1 diabetes
+900029,2008-01-01,401.1,Essential hypertension
+900029,2008-01-01,250.2,Type 2 diabetes
+900029,2014-01-01,401.1,Essential hypertension
+900029,2014-01-01,250.2,Type 2 diabetes
+900029,2018-01-01,401.1,Essential hypertension
+900029,2018-01-01,250.2,Type 2 diabetes
+900029,2020-01-01,250.1,Type 1 diabetes
+900030,2008-01-01,401.1,Essential hypertension
+900030,2008-01-01,250.2,Type 2 diabetes
+900030,2014-01-01,401.1,Essential hypertension
+900030,2014-01-01,250.2,Type 2 diabetes
+900030,2018-01-01,401.1,Essential hypertension
+900030,2018-01-01,250.2,Type 2 diabetes
+900030,2020-01-01,250.1,Type 1 diabetes
+900031,2008-01-01,401.1,Essential hypertension
+900031,2008-01-01,250.2,Type 2 diabetes
+900031,2014-01-01,401.1,Essential hypertension
+900031,2014-01-01,250.2,Type 2 diabetes
+900031,2018-01-01,401.1,Essential hypertension
+900031,2020-01-01,250.1,Type 1 diabetes
+900032,2008-01-01,401.1,Essential hypertension
+900032,2008-01-01,250.2,Type 2 diabetes
+900032,2014-01-01,401.1,Essential hypertension
+900032,2014-01-01,250.2,Type 2 diabetes
+900032,2018-01-01,401.1,Essential hypertension
+900032,2018-01-01,250.2,Type 2 diabetes
+900032,2020-01-01,250.1,Type 1 diabetes
+900033,2008-01-01,401.1,Essential hypertension
+900033,2014-01-01,401.1,Essential hypertension
+900033,2014-01-01,250.2,Type 2 diabetes
+900033,2018-01-01,401.1,Essential hypertension
+900033,2020-01-01,250.1,Type 1 diabetes
+900034,2008-01-01,401.1,Essential hypertension
+900034,2008-01-01,250.2,Type 2 diabetes
+900034,2014-01-01,401.1,Essential hypertension
+900034,2018-01-01,401.1,Essential hypertension
+900034,2018-01-01,250.2,Type 2 diabetes
+900034,2020-01-01,250.1,Type 1 diabetes
+900035,2008-01-01,401.1,Essential hypertension
+900035,2008-01-01,250.2,Type 2 diabetes
+900035,2014-01-01,401.1,Essential hypertension
+900035,2018-01-01,401.1,Essential hypertension
+900035,2018-01-01,250.2,Type 2 diabetes
+900035,2020-01-01,250.1,Type 1 diabetes
+900036,2008-01-01,401.1,Essential hypertension
+900036,2008-01-01,250.2,Type 2 diabetes
+900036,2014-01-01,401.1,Essential hypertension
+900036,2014-01-01,250.2,Type 2 diabetes
+900036,2018-01-01,401.1,Essential hypertension
+900036,2020-01-01,250.1,Type 1 diabetes
+900037,2008-01-01,401.1,Essential hypertension
+900037,2014-01-01,401.1,Essential hypertension
+900037,2014-01-01,250.2,Type 2 diabetes
+900037,2018-01-01,401.1,Essential hypertension
+900037,2018-01-01,250.2,Type 2 diabetes
+900037,2020-01-01,250.1,Type 1 diabetes
+900038,2008-01-01,401.1,Essential hypertension
+900038,2014-01-01,401.1,Essential hypertension
+900038,2014-01-01,250.2,Type 2 diabetes
+900038,2018-01-01,401.1,Essential hypertension
+900038,2018-01-01,250.2,Type 2 diabetes
+900038,2020-01-01,250.1,Type 1 diabetes
+900039,2008-01-01,401.1,Essential hypertension
+900039,2014-01-01,401.1,Essential hypertension
+900039,2014-01-01,250.2,Type 2 diabetes
+900039,2018-01-01,401.1,Essential hypertension
+900039,2020-01-01,250.1,Type 1 diabetes
+900040,2008-01-01,401.1,Essential hypertension
+900040,2014-01-01,401.1,Essential hypertension
+900040,2014-01-01,250.2,Type 2 diabetes
+900040,2018-01-01,401.1,Essential hypertension
+900040,2020-01-01,250.1,Type 1 diabetes
+900041,2008-01-01,401.1,Essential hypertension
+900041,2008-01-01,250.2,Type 2 diabetes
+900041,2014-01-01,401.1,Essential hypertension
+900041,2014-01-01,250.2,Type 2 diabetes
+900041,2018-01-01,401.1,Essential hypertension
+900041,2020-01-01,250.1,Type 1 diabetes
+900042,2008-01-01,401.1,Essential hypertension
+900042,2014-01-01,401.1,Essential hypertension
+900042,2018-01-01,401.1,Essential hypertension
+900042,2020-01-01,250.1,Type 1 diabetes
+900043,2008-01-01,401.1,Essential hypertension
+900043,2014-01-01,401.1,Essential hypertension
+900043,2014-01-01,250.2,Type 2 diabetes
+900043,2018-01-01,401.1,Essential hypertension
+900043,2020-01-01,250.1,Type 1 diabetes
+900044,2008-01-01,401.1,Essential hypertension
+900044,2014-01-01,401.1,Essential hypertension
+900044,2018-01-01,401.1,Essential hypertension
+900044,2020-01-01,250.1,Type 1 diabetes
+900045,2008-01-01,401.1,Essential hypertension
+900045,2014-01-01,401.1,Essential hypertension
+900045,2018-01-01,401.1,Essential hypertension
+900045,2020-01-01,250.1,Type 1 diabetes
+900046,2008-01-01,401.1,Essential hypertension
+900046,2014-01-01,401.1,Essential hypertension
+900046,2014-01-01,250.2,Type 2 diabetes
+900046,2018-01-01,401.1,Essential hypertension
+900046,2020-01-01,250.1,Type 1 diabetes
+900047,2008-01-01,401.1,Essential hypertension
+900047,2014-01-01,401.1,Essential hypertension
+900047,2014-01-01,250.2,Type 2 diabetes
+900047,2018-01-01,401.1,Essential hypertension
+900047,2020-01-01,250.1,Type 1 diabetes
+900048,2008-01-01,401.1,Essential hypertension
+900048,2008-01-01,250.2,Type 2 diabetes
+900048,2014-01-01,401.1,Essential hypertension
+900048,2018-01-01,401.1,Essential hypertension
+900048,2020-01-01,250.1,Type 1 diabetes
+900049,2008-01-01,401.1,Essential hypertension
+900049,2014-01-01,401.1,Essential hypertension
+900049,2018-01-01,401.1,Essential hypertension
+900049,2018-01-01,250.2,Type 2 diabetes
+900049,2020-01-01,250.1,Type 1 diabetes
+900050,2008-01-01,401.1,Essential hypertension
+900050,2014-01-01,401.1,Essential hypertension
+900050,2014-01-01,250.2,Type 2 diabetes
+900050,2018-01-01,401.1,Essential hypertension
+900050,2020-01-01,250.1,Type 1 diabetes
+900051,2008-01-01,401.1,Essential hypertension
+900051,2014-01-01,401.1,Essential hypertension
+900051,2018-01-01,401.1,Essential hypertension
+900051,2018-01-01,250.2,Type 2 diabetes
+900051,2020-01-01,250.1,Type 1 diabetes
+900052,2008-01-01,401.1,Essential hypertension
+900052,2014-01-01,401.1,Essential hypertension
+900052,2014-01-01,250.2,Type 2 diabetes
+900052,2018-01-01,401.1,Essential hypertension
+900052,2018-01-01,250.2,Type 2 diabetes
+900052,2020-01-01,250.1,Type 1 diabetes
+900053,2008-01-01,401.1,Essential hypertension
+900053,2014-01-01,401.1,Essential hypertension
+900053,2014-01-01,250.2,Type 2 diabetes
+900053,2018-01-01,401.1,Essential hypertension
+900053,2020-01-01,250.1,Type 1 diabetes
+900054,2008-01-01,401.1,Essential hypertension
+900054,2008-01-01,250.2,Type 2 diabetes
+900054,2014-01-01,401.1,Essential hypertension
+900054,2018-01-01,401.1,Essential hypertension
+900054,2018-01-01,250.2,Type 2 diabetes
+900054,2020-01-01,250.1,Type 1 diabetes
+900055,2008-01-01,401.1,Essential hypertension
+900055,2014-01-01,401.1,Essential hypertension
+900055,2018-01-01,401.1,Essential hypertension
+900055,2018-01-01,250.2,Type 2 diabetes
+900055,2020-01-01,250.1,Type 1 diabetes
+900056,2008-01-01,401.1,Essential hypertension
+900056,2014-01-01,401.1,Essential hypertension
+900056,2018-01-01,401.1,Essential hypertension
+900056,2020-01-01,250.1,Type 1 diabetes
+900057,2008-01-01,401.1,Essential hypertension
+900057,2014-01-01,401.1,Essential hypertension
+900057,2014-01-01,250.2,Type 2 diabetes
+900057,2018-01-01,401.1,Essential hypertension
+900057,2020-01-01,250.1,Type 1 diabetes
+900058,2008-01-01,401.1,Essential hypertension
+900058,2008-01-01,250.2,Type 2 diabetes
+900058,2014-01-01,401.1,Essential hypertension
+900058,2014-01-01,250.2,Type 2 diabetes
+900058,2018-01-01,401.1,Essential hypertension
+900058,2020-01-01,250.1,Type 1 diabetes
+900059,2008-01-01,401.1,Essential hypertension
+900059,2008-01-01,250.2,Type 2 diabetes
+900059,2014-01-01,401.1,Essential hypertension
+900059,2018-01-01,401.1,Essential hypertension
+900059,2018-01-01,250.2,Type 2 diabetes
+900059,2020-01-01,250.1,Type 1 diabetes
+900060,2008-01-01,401.1,Essential hypertension
+900060,2014-01-01,401.1,Essential hypertension
+900060,2018-01-01,401.1,Essential hypertension
+900060,2020-01-01,250.1,Type 1 diabetes
+900061,2008-01-01,401.1,Essential hypertension
+900061,2014-01-01,401.1,Essential hypertension
+900061,2018-01-01,401.1,Essential hypertension
+900061,2018-01-01,250.2,Type 2 diabetes
+900061,2020-01-01,250.1,Type 1 diabetes
+900062,2008-01-01,401.1,Essential hypertension
+900062,2014-01-01,401.1,Essential hypertension
+900062,2018-01-01,401.1,Essential hypertension
+900062,2020-01-01,250.1,Type 1 diabetes
+900063,2008-01-01,401.1,Essential hypertension
+900063,2014-01-01,401.1,Essential hypertension
+900063,2018-01-01,401.1,Essential hypertension
+900063,2020-01-01,250.1,Type 1 diabetes
+900064,2008-01-01,401.1,Essential hypertension
+900064,2014-01-01,401.1,Essential hypertension
+900064,2018-01-01,401.1,Essential hypertension
+900064,2018-01-01,250.2,Type 2 diabetes
+900064,2020-01-01,250.1,Type 1 diabetes
+900065,2008-01-01,401.1,Essential hypertension
+900065,2014-01-01,401.1,Essential hypertension
+900065,2014-01-01,250.2,Type 2 diabetes
+900065,2018-01-01,401.1,Essential hypertension
+900065,2020-01-01,250.1,Type 1 diabetes
+900066,2008-01-01,401.1,Essential hypertension
+900066,2014-01-01,401.1,Essential hypertension
+900066,2018-01-01,401.1,Essential hypertension
+900066,2018-01-01,250.2,Type 2 diabetes
+900066,2020-01-01,250.1,Type 1 diabetes
+900067,2008-01-01,401.1,Essential hypertension
+900067,2014-01-01,401.1,Essential hypertension
+900067,2018-01-01,401.1,Essential hypertension
+900067,2018-01-01,250.2,Type 2 diabetes
+900067,2020-01-01,250.1,Type 1 diabetes
+900068,2008-01-01,401.1,Essential hypertension
+900068,2014-01-01,401.1,Essential hypertension
+900068,2014-01-01,250.2,Type 2 diabetes
+900068,2018-01-01,401.1,Essential hypertension
+900068,2018-01-01,250.2,Type 2 diabetes
+900068,2020-01-01,250.1,Type 1 diabetes
+900069,2008-01-01,401.1,Essential hypertension
+900069,2008-01-01,250.2,Type 2 diabetes
+900069,2014-01-01,401.1,Essential hypertension
+900069,2014-01-01,250.2,Type 2 diabetes
+900069,2018-01-01,401.1,Essential hypertension
+900069,2020-01-01,250.1,Type 1 diabetes
+900070,2008-01-01,401.1,Essential hypertension
+900070,2014-01-01,401.1,Essential hypertension
+900070,2018-01-01,401.1,Essential hypertension
+900070,2020-01-01,250.1,Type 1 diabetes
+900071,2008-01-01,401.1,Essential hypertension
+900071,2014-01-01,401.1,Essential hypertension
+900071,2018-01-01,401.1,Essential hypertension
+900071,2018-01-01,250.2,Type 2 diabetes
+900071,2020-01-01,250.1,Type 1 diabetes
+900072,2008-01-01,401.1,Essential hypertension
+900072,2008-01-01,250.2,Type 2 diabetes
+900072,2014-01-01,401.1,Essential hypertension
+900072,2014-01-01,250.2,Type 2 diabetes
+900072,2018-01-01,401.1,Essential hypertension
+900072,2018-01-01,250.2,Type 2 diabetes
+900072,2020-01-01,250.1,Type 1 diabetes
+900073,2008-01-01,401.1,Essential hypertension
+900073,2014-01-01,401.1,Essential hypertension
+900073,2018-01-01,401.1,Essential hypertension
+900073,2020-01-01,250.1,Type 1 diabetes
+900074,2008-01-01,401.1,Essential hypertension
+900074,2014-01-01,401.1,Essential hypertension
+900074,2018-01-01,401.1,Essential hypertension
+900074,2020-01-01,250.1,Type 1 diabetes
+900075,2008-01-01,401.1,Essential hypertension
+900075,2008-01-01,250.2,Type 2 diabetes
+900075,2014-01-01,401.1,Essential hypertension
+900075,2014-01-01,250.2,Type 2 diabetes
+900075,2018-01-01,401.1,Essential hypertension
+900075,2018-01-01,250.2,Type 2 diabetes
+900075,2020-01-01,250.1,Type 1 diabetes
+900076,2008-01-01,401.1,Essential hypertension
+900076,2014-01-01,401.1,Essential hypertension
+900076,2018-01-01,401.1,Essential hypertension
+900076,2018-01-01,250.2,Type 2 diabetes
+900076,2020-01-01,250.1,Type 1 diabetes
+900077,2008-01-01,401.1,Essential hypertension
+900077,2008-01-01,250.2,Type 2 diabetes
+900077,2014-01-01,401.1,Essential hypertension
+900077,2018-01-01,401.1,Essential hypertension
+900077,2018-01-01,250.2,Type 2 diabetes
+900077,2020-01-01,250.1,Type 1 diabetes
+900078,2008-01-01,401.1,Essential hypertension
+900078,2008-01-01,250.2,Type 2 diabetes
+900078,2014-01-01,401.1,Essential hypertension
+900078,2018-01-01,401.1,Essential hypertension
+900078,2018-01-01,250.2,Type 2 diabetes
+900078,2020-01-01,250.1,Type 1 diabetes
+900079,2008-01-01,401.1,Essential hypertension
+900079,2014-01-01,401.1,Essential hypertension
+900079,2018-01-01,401.1,Essential hypertension
+900079,2020-01-01,250.1,Type 1 diabetes
+900080,2008-01-01,401.1,Essential hypertension
+900080,2014-01-01,401.1,Essential hypertension
+900080,2014-01-01,250.2,Type 2 diabetes
+900080,2018-01-01,401.1,Essential hypertension
+900080,2020-01-01,250.1,Type 1 diabetes
+900081,2008-01-01,401.1,Essential hypertension
+900081,2014-01-01,401.1,Essential hypertension
+900081,2014-01-01,250.2,Type 2 diabetes
+900081,2018-01-01,401.1,Essential hypertension
+900081,2020-01-01,250.1,Type 1 diabetes
+900082,2008-01-01,401.1,Essential hypertension
+900082,2014-01-01,401.1,Essential hypertension
+900082,2014-01-01,250.2,Type 2 diabetes
+900082,2018-01-01,401.1,Essential hypertension
+900082,2018-01-01,250.2,Type 2 diabetes
+900082,2020-01-01,250.1,Type 1 diabetes
+900083,2008-01-01,401.1,Essential hypertension
+900083,2014-01-01,401.1,Essential hypertension
+900083,2018-01-01,401.1,Essential hypertension
+900083,2018-01-01,250.2,Type 2 diabetes
+900083,2020-01-01,250.1,Type 1 diabetes
+900084,2008-01-01,401.1,Essential hypertension
+900084,2014-01-01,401.1,Essential hypertension
+900084,2018-01-01,401.1,Essential hypertension
+900084,2020-01-01,250.1,Type 1 diabetes
+900085,2008-01-01,401.1,Essential hypertension
+900085,2014-01-01,401.1,Essential hypertension
+900085,2018-01-01,401.1,Essential hypertension
+900085,2020-01-01,250.1,Type 1 diabetes
+900086,2008-01-01,401.1,Essential hypertension
+900086,2008-01-01,250.2,Type 2 diabetes
+900086,2014-01-01,401.1,Essential hypertension
+900086,2018-01-01,401.1,Essential hypertension
+900086,2018-01-01,250.2,Type 2 diabetes
+900086,2020-01-01,250.1,Type 1 diabetes
+900087,2008-01-01,401.1,Essential hypertension
+900087,2014-01-01,401.1,Essential hypertension
+900087,2018-01-01,401.1,Essential hypertension
+900087,2020-01-01,250.1,Type 1 diabetes
+900088,2008-01-01,401.1,Essential hypertension
+900088,2008-01-01,250.2,Type 2 diabetes
+900088,2014-01-01,401.1,Essential hypertension
+900088,2018-01-01,401.1,Essential hypertension
+900088,2020-01-01,250.1,Type 1 diabetes
+900089,2008-01-01,401.1,Essential hypertension
+900089,2014-01-01,401.1,Essential hypertension
+900089,2014-01-01,250.2,Type 2 diabetes
+900089,2018-01-01,401.1,Essential hypertension
+900089,2018-01-01,250.2,Type 2 diabetes
+900089,2020-01-01,250.1,Type 1 diabetes
+900090,2008-01-01,401.1,Essential hypertension
+900090,2014-01-01,401.1,Essential hypertension
+900090,2018-01-01,401.1,Essential hypertension
+900090,2020-01-01,250.1,Type 1 diabetes
+900091,2008-01-01,401.1,Essential hypertension
+900091,2014-01-01,401.1,Essential hypertension
+900091,2018-01-01,401.1,Essential hypertension
+900091,2020-01-01,250.1,Type 1 diabetes
+900092,2008-01-01,401.1,Essential hypertension
+900092,2008-01-01,250.2,Type 2 diabetes
+900092,2014-01-01,401.1,Essential hypertension
+900092,2014-01-01,250.2,Type 2 diabetes
+900092,2018-01-01,401.1,Essential hypertension
+900092,2018-01-01,250.2,Type 2 diabetes
+900092,2020-01-01,250.1,Type 1 diabetes
+900093,2008-01-01,401.1,Essential hypertension
+900093,2014-01-01,401.1,Essential hypertension
+900093,2014-01-01,250.2,Type 2 diabetes
+900093,2018-01-01,401.1,Essential hypertension
+900093,2020-01-01,250.1,Type 1 diabetes
+900094,2008-01-01,401.1,Essential hypertension
+900094,2014-01-01,401.1,Essential hypertension
+900094,2018-01-01,401.1,Essential hypertension
+900094,2020-01-01,250.1,Type 1 diabetes
+900095,2008-01-01,401.1,Essential hypertension
+900095,2008-01-01,250.2,Type 2 diabetes
+900095,2014-01-01,401.1,Essential hypertension
+900095,2014-01-01,250.2,Type 2 diabetes
+900095,2018-01-01,401.1,Essential hypertension
+900095,2018-01-01,250.2,Type 2 diabetes
+900095,2020-01-01,250.1,Type 1 diabetes
+900096,2008-01-01,401.1,Essential hypertension
+900096,2014-01-01,401.1,Essential hypertension
+900096,2014-01-01,250.2,Type 2 diabetes
+900096,2018-01-01,401.1,Essential hypertension
+900096,2018-01-01,250.2,Type 2 diabetes
+900096,2020-01-01,250.1,Type 1 diabetes
+900097,2008-01-01,401.1,Essential hypertension
+900097,2014-01-01,401.1,Essential hypertension
+900097,2018-01-01,401.1,Essential hypertension
+900097,2018-01-01,250.2,Type 2 diabetes
+900097,2020-01-01,250.1,Type 1 diabetes
+900098,2008-01-01,401.1,Essential hypertension
+900098,2014-01-01,401.1,Essential hypertension
+900098,2018-01-01,401.1,Essential hypertension
+900098,2020-01-01,250.1,Type 1 diabetes
+900099,2008-01-01,401.1,Essential hypertension
+900099,2008-01-01,250.2,Type 2 diabetes
+900099,2014-01-01,401.1,Essential hypertension
+900099,2014-01-01,250.2,Type 2 diabetes
+900099,2018-01-01,401.1,Essential hypertension
+900099,2020-01-01,250.1,Type 1 diabetes
+900100,2008-01-01,401.1,Essential hypertension
+900100,2014-01-01,401.1,Essential hypertension
+900100,2018-01-01,401.1,Essential hypertension
+900100,2018-01-01,250.2,Type 2 diabetes
+900100,2020-01-01,250.1,Type 1 diabetes
+900101,2008-01-01,401.1,Essential hypertension
+900101,2008-01-01,250.2,Type 2 diabetes
+900101,2014-01-01,401.1,Essential hypertension
+900101,2018-01-01,401.1,Essential hypertension
+900101,2020-01-01,250.1,Type 1 diabetes
+900102,2008-01-01,401.1,Essential hypertension
+900102,2014-01-01,401.1,Essential hypertension
+900102,2018-01-01,401.1,Essential hypertension
+900102,2018-01-01,250.2,Type 2 diabetes
+900102,2020-01-01,250.1,Type 1 diabetes
+900103,2008-01-01,401.1,Essential hypertension
+900103,2014-01-01,401.1,Essential hypertension
+900103,2018-01-01,401.1,Essential hypertension
+900103,2018-01-01,250.2,Type 2 diabetes
+900103,2020-01-01,250.1,Type 1 diabetes
+900104,2008-01-01,401.1,Essential hypertension
+900104,2014-01-01,401.1,Essential hypertension
+900104,2018-01-01,401.1,Essential hypertension
+900104,2018-01-01,250.2,Type 2 diabetes
+900104,2020-01-01,250.1,Type 1 diabetes
+900105,2008-01-01,401.1,Essential hypertension
+900105,2008-01-01,250.2,Type 2 diabetes
+900105,2014-01-01,401.1,Essential hypertension
+900105,2018-01-01,401.1,Essential hypertension
+900105,2020-01-01,250.1,Type 1 diabetes
+900106,2008-01-01,401.1,Essential hypertension
+900106,2014-01-01,401.1,Essential hypertension
+900106,2018-01-01,401.1,Essential hypertension
+900106,2020-01-01,250.1,Type 1 diabetes
+900107,2008-01-01,401.1,Essential hypertension
+900107,2014-01-01,401.1,Essential hypertension
+900107,2018-01-01,401.1,Essential hypertension
+900107,2018-01-01,250.2,Type 2 diabetes
+900107,2020-01-01,250.1,Type 1 diabetes
+900108,2008-01-01,401.1,Essential hypertension
+900108,2014-01-01,401.1,Essential hypertension
+900108,2018-01-01,401.1,Essential hypertension
+900108,2020-01-01,250.1,Type 1 diabetes
+900109,2008-01-01,401.1,Essential hypertension
+900109,2014-01-01,401.1,Essential hypertension
+900109,2014-01-01,250.2,Type 2 diabetes
+900109,2018-01-01,401.1,Essential hypertension
+900109,2020-01-01,250.1,Type 1 diabetes
+900110,2008-01-01,401.1,Essential hypertension
+900110,2014-01-01,401.1,Essential hypertension
+900110,2018-01-01,401.1,Essential hypertension
+900110,2018-01-01,250.2,Type 2 diabetes
+900110,2020-01-01,250.1,Type 1 diabetes
+900111,2008-01-01,401.1,Essential hypertension
+900111,2008-01-01,250.2,Type 2 diabetes
+900111,2014-01-01,401.1,Essential hypertension
+900111,2018-01-01,401.1,Essential hypertension
+900111,2020-01-01,250.1,Type 1 diabetes
+900112,2008-01-01,401.1,Essential hypertension
+900112,2008-01-01,250.2,Type 2 diabetes
+900112,2014-01-01,401.1,Essential hypertension
+900112,2014-01-01,250.2,Type 2 diabetes
+900112,2018-01-01,401.1,Essential hypertension
+900112,2020-01-01,250.1,Type 1 diabetes
+900113,2008-01-01,401.1,Essential hypertension
+900113,2014-01-01,401.1,Essential hypertension
+900113,2018-01-01,401.1,Essential hypertension
+900113,2020-01-01,250.1,Type 1 diabetes
+900114,2008-01-01,401.1,Essential hypertension
+900114,2014-01-01,401.1,Essential hypertension
+900114,2018-01-01,401.1,Essential hypertension
+900114,2020-01-01,250.1,Type 1 diabetes
+900115,2008-01-01,401.1,Essential hypertension
+900115,2014-01-01,401.1,Essential hypertension
+900115,2018-01-01,401.1,Essential hypertension
+900115,2020-01-01,250.1,Type 1 diabetes
+900116,2008-01-01,401.1,Essential hypertension
+900116,2014-01-01,401.1,Essential hypertension
+900116,2014-01-01,250.2,Type 2 diabetes
+900116,2018-01-01,401.1,Essential hypertension
+900116,2020-01-01,250.1,Type 1 diabetes
+900117,2008-01-01,401.1,Essential hypertension
+900117,2008-01-01,250.2,Type 2 diabetes
+900117,2014-01-01,401.1,Essential hypertension
+900117,2018-01-01,401.1,Essential hypertension
+900117,2020-01-01,250.1,Type 1 diabetes
+900118,2008-01-01,401.1,Essential hypertension
+900118,2008-01-01,250.2,Type 2 diabetes
+900118,2014-01-01,401.1,Essential hypertension
+900118,2018-01-01,401.1,Essential hypertension
+900118,2018-01-01,250.2,Type 2 diabetes
+900118,2020-01-01,250.1,Type 1 diabetes
+900119,2008-01-01,401.1,Essential hypertension
+900119,2014-01-01,401.1,Essential hypertension
+900119,2018-01-01,401.1,Essential hypertension
+900119,2020-01-01,250.1,Type 1 diabetes
+900120,2008-01-01,401.1,Essential hypertension
+900120,2008-01-01,250.2,Type 2 diabetes
+900120,2014-01-01,401.1,Essential hypertension
+900120,2018-01-01,401.1,Essential hypertension
+900120,2018-01-01,250.2,Type 2 diabetes
+900120,2020-01-01,250.1,Type 1 diabetes

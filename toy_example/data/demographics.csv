@@ -1,0 +1,121 @@
+patid,birth_date,age,sex,race,ethnicity
+900001,1937-06-15,82.546,Female,White,Hispanic or Latino
+900002,1946-06-15,73.547,Male,Black or African American,Not Hispanic or Latino
+900003,1956-06-15,63.546,Female,Asian,Not Hispanic or Latino
+900004,1943-06-15,76.548,Male,Other,Not Hispanic or Latino
+900005,1947-06-15,72.548,Female,White,Not Hispanic or Latino
+900006,1946-06-15,73.547,Male,Black or African American,Hispanic or Latino
+900007,1946-06-15,73.547,Female,Asian,Not Hispanic or Latino
+900008,1950-06-15,69.547,Male,Other,Not Hispanic or Latino
+900009,1935-06-15,84.548,Female,White,Not Hispanic or Latino
+900010,1959-06-15,60.548,Male,Black or African American,Not Hispanic or Latino
+900011,1953-06-15,66.546,Female,Asian,Hispanic or Latino
+900012,1941-06-15,78.546,Male,Other,Not Hispanic or Latino
+900013,1959-06-15,60.548,Female,White,Not Hispanic or Latino
+900014,1953-06-15,66.546,Male,Black or African American,Not Hispanic or Latino
+900015,1959-06-15,60.548,Female,Asian,Not Hispanic or Latino
+900016,1937-06-15,82.546,Male,Other,Hispanic or Latino
+900017,1955-06-15,64.548,Female,White,Not Hispanic or Latino
+900018,1935-06-15,84.548,Male,Black or African American,Not Hispanic or Latino
+900019,1946-06-15,73.547,Female,Asian,Not Hispanic or Latino
+900020,1946-06-15,73.547,Male,Other,Not Hispanic or Latino
+900021,1945-06-15,74.546,Female,White,Hispanic or Latino
+900022,1938-06-15,81.547,Male,Black or African American,Not Hispanic or Latino
+900023,1955-06-15,64.548,Female,Asian,Not Hispanic or Latino
+900024,1951-06-15,68.548,Male,Other,Not Hispanic or Latino
+900025,1959-06-15,60.548,Female,White,Not Hispanic or Latino
+900026,1956-06-15,63.546,Male,Black or African American,Hispanic or Latino
+900027,1942-06-15,77.547,Female,Asian,Not Hispanic or Latino
+900028,1948-06-15,71.546,Male,Other,Not Hispanic or Latino
+900029,1950-06-15,69.547,Female,White,Not Hispanic or Latino
+900030,1940-06-15,79.546,Male,Black or African American,Not Hispanic or Latino
+900031,1956-06-15,63.546,Female,Asian,Hispanic or Latino
+900032,1942-06-15,77.547,Male,Other,Not Hispanic or Latino
+900033,1948-06-15,71.546,Female,White,Not Hispanic or Latino
+900034,1937-06-15,82.546,Male,Black or African American,Not Hispanic or Latino
+900035,1956-06-15,63.546,Female,Asian,Not Hispanic or Latino
+900036,1945-06-15,74.546,Male,Other,Hispanic or Latino
+900037,1958-06-15,61.547,Female,White,Not Hispanic or Latino
+900038,1954-06-15,65.547,Male,Black or African American,Not Hispanic or Latino
+900039,1943-06-15,76.548,Female,Asian,Not Hispanic or Latino
+900040,1942-06-15,77.547,Male,Other,Not Hispanic or Latino
+900041,1935-06-15,84.548,Female,White,Hispanic or Latino
+900042,1943-06-15,76.548,Male,Black or African American,Not Hispanic or Latino
+900043,1955-06-15,64.548,Female,Asian,Not Hispanic or Latino
+900044,1945-06-15,74.546,Male,Other,Not Hispanic or Latino
+900045,1944-06-15,75.546,Female,White,Not Hispanic or Latino
+900046,1953-06-15,66.546,Male,Black or African American,Hispanic or Latino
+900047,1944-06-15,75.546,Female,Asian,Not Hispanic or Latino
+900048,1944-06-15,75.546,Male,Other,Not Hispanic or Latino
+900049,1941-06-15,78.546,Female,White,Not Hispanic or Latino
+900050,1952-06-15,67.546,Male,Black or African American,Not Hispanic or Latino
+900051,1936-06-15,83.546,Female,Asian,Hispanic or Latino
+900052,1956-06-15,63.546,Male,Other,Not Hispanic or Latino
+900053,1937-06-15,82.546,Female,White,Not Hispanic or Latino
+900054,1935-06-15,84.548,Male,Black or African American,Not Hispanic or Latino
+900055,1937-06-15,82.546,Female,Asian,Not Hispanic or Latino
+900056,1945-06-15,74.546,Male,Other,Hispanic or Latino
+900057,1959-06-15,60.548,Female,White,Not Hispanic or Latino
+900058,1936-06-15,83.546,Male,Black or African American,Not Hispanic or Latino
+900059,1936-06-15,83.546,Female,Asian,Not Hispanic or Latino
+900060,1941-06-15,78.546,Male,Other,Not Hispanic or Latino
+900061,1956-06-15,63.546,Female,White,Hispanic or Latino
+900062,1954-06-15,65.547,Male,Black or African American,Not Hispanic or Latino
+900063,1938-06-15,81.547,Female,Asian,Not Hispanic or Latino
+900064,1955-06-15,64.548,Male,Other,Not Hispanic or Latino
+900065,1952-06-15,67.546,Female,White,Not Hispanic or Latino
+900066,1937-06-15,82.546,Male,Black or African American,Hispanic or Latino
+900067,1941-06-15,78.546,Female,Asian,Not Hispanic or Latino
+900068,1935-06-15,84.548,Male,Other,Not Hispanic or Latino
+900069,1938-06-15,81.547,Female,White,Not Hispanic or Latino
+900070,1959-06-15,60.548,Male,Black or African American,Not Hispanic or Latino
+900071,1939-06-15,80.548,Female,Asian,Hispanic or Latino
+900072,1950-06-15,69.547,Male,Other,Not Hispanic or Latino
+900073,1938-06-15,81.547,Female,White,Not Hispanic or Latino
+900074,1943-06-15,76.548,Male,Black or African American,Not Hispanic or Latino
+900075,1958-06-15,61.547,Female,Asian,Not Hispanic or Latino
+900076,1946-06-15,73.547,Male,Other,Hispanic or Latino
+900077,1937-06-15,82.546,Female,White,Not Hispanic or Latino
+900078,1957-06-15,62.546,Male,Black or African American,Not Hispanic or Latino
+900079,1954-06-15,65.547,Female,Asian,Not Hispanic or Latino
+900080,1949-06-15,70.546,Male,Other,Not Hispanic or Latino
+900081,1952-06-15,67.546,Female,White,Hispanic or Latino
+900082,1945-06-15,74.546,Male,Black or African American,Not Hispanic or Latino
+900083,1940-06-15,79.546,Female,Asian,Not Hispanic or Latino
+900084,1943-06-15,76.548,Male,Other,Not Hispanic or Latino
+900085,1947-06-15,72.548,Female,White,Not Hispanic or Latino
+900086,1959-06-15,60.548,Male,Black or African American,Hispanic or Latino
+900087,1947-06-15,72.548,Female,Asian,Not Hispanic or Latino
+900088,1943-06-15,76.548,Male,Other,Not Hispanic or Latino
+900089,1941-06-15,78.546,Female,White,Not Hispanic or Latino
+900090,1953-06-15,66.546,Male,Black or African American,Not Hispanic or Latino
+900091,1946-06-15,73.547,Female,Asian,Hispanic or Latino
+900092,1946-06-15,73.547,Male,Other,Not Hispanic or Latino
+900093,1958-06-15,61.547,Female,White,Not Hispanic or Latino
+900094,1956-06-15,63.546,Male,Black or African American,Not Hispanic or Latino
+900095,1949-06-15,70.546,Female,Asian,Not Hispanic or Latino
+900096,1938-06-15,81.547,Male,Other,Hispanic or Latino
+900097,1937-06-15,82.546,Female,White,Not Hispanic or Latino
+900098,1942-06-15,77.547,Male,Black or African American,Not Hispanic or Latino
+900099,1937-06-15,82.546,Female,Asian,Not Hispanic or Latino
+900100,1958-06-15,61.547,Male,Other,Not Hispanic or Latino
+900101,1935-06-15,84.548,Female,White,Hispanic or Latino
+900102,1935-06-15,84.548,Male,Black or African American,Not Hispanic or Latino
+900103,1936-06-15,83.546,Female,Asian,Not Hispanic or Latino
+900104,1943-06-15,76.548,Male,Other,Not Hispanic or Latino
+900105,1957-06-15,62.546,Female,White,Not Hispanic or Latino
+900106,1939-06-15,80.548,Male,Black or African American,Hispanic or Latino
+900107,1959-06-15,60.548,Female,Asian,Not Hispanic or Latino
+900108,1940-06-15,79.546,Male,Other,Not Hispanic or Latino
+900109,1936-06-15,83.546,Female,White,Not Hispanic or Latino
+900110,1950-06-15,69.547,Male,Black or African American,Not Hispanic or Latino
+900111,1959-06-15,60.548,Female,Asian,Hispanic or Latino
+900112,1938-06-15,81.547,Male,Other,Not Hispanic or Latino
+900113,1948-06-15,71.546,Female,White,Not Hispanic or Latino
+900114,1938-06-15,81.547,Male,Black or African American,Not Hispanic or Latino
+900115,1935-06-15,84.548,Female,Asian,Not Hispanic or Latino
+900116,1949-06-15,70.546,Male,Other,Hispanic or Latino
+900117,1947-06-15,72.548,Female,White,Not Hispanic or Latino
+900118,1948-06-15,71.546,Male,Black or African American,Not Hispanic or Latino
+900119,1959-06-15,60.548,Female,Asian,Not Hispanic or Latino
+900120,1949-06-15,70.546,Male,Other,Not Hispanic or Latino
