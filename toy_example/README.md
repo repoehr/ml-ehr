@@ -56,7 +56,7 @@ To change the prediction window, rerun from step 4 onward.
 
 ## Input tables
 
-The cohort supplies subject IDs, index dates and simulated labels. Diagnosis,
+The toy cohort supplies subject IDs, index dates and simulated labels. Diagnosis,
 medication, laboratory and vital-sign CSVs have the columns expected by the
 original `process_features` function. Demographics include age at index, sex,
 race and ethnicity; birth dates allow conversion to age at the prediction window cutoff.
